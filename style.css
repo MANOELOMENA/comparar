@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.resultado {
+    color: green;
+}
+.erro {
+    color: red;
+}
